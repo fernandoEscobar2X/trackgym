@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
 import { DayInfo, TimeRemaining } from '../../types';
 import { PLAN_END } from '../../lib/cycle';

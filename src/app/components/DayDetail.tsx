@@ -2,7 +2,7 @@
 
 import { motion } from 'motion/react';
 import { X } from 'lucide-react';
-import { getDayInfo, getSpecialEvent, isInPlan } from '../../lib/cycle';
+import { getDayInfo, getSpecialEvent } from '../../lib/cycle';
 
 interface DayDetailProps {
   date: Date;

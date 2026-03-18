@@ -7,7 +7,6 @@ import {
   getSpecialEvent,
   isBeforePlan,
   isAfterPlan,
-  PLAN_START,
   PLAN_END,
 } from '../../lib/cycle';
 import { DayDetail } from './DayDetail';
